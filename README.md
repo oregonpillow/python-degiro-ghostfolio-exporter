@@ -1,0 +1,1 @@
+# python-degiro-ghostfolio-exporter
